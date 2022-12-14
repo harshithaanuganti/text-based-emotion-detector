@@ -1,0 +1,8 @@
+pandas
+streamlit
+pickleshare
+torch
+plotly
+matplotlib
+numpy
+scikit-learn
